@@ -1,7 +1,6 @@
 # Training configs
 model_run: model_run_name
 
-
 # Directories
 train_dir: 
 val_dir:
@@ -24,5 +23,4 @@ momentum:
 beta1:
 beta2:
 nesterov: True
-
 
